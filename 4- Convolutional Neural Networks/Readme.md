@@ -329,6 +329,10 @@ Here is the course summary as given on the course [link](https://www.coursera.or
     - In each layer, each output value depends only on a small number of inputs which makes it translation invariance.
 - Putting it all together:
   - ![](Images/04.png)
+  
+### Backpropagation in Conv Nets
+
+Refer to [this](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) and [this](https://towardsdatascience.com/backpropagation-in-a-convolutional-layer-24c8d64d8509) link.
 
 ## Deep convolutional models: case studies
 
